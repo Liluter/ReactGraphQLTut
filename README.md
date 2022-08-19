@@ -1,4 +1,11 @@
+
 # Getting Started with Create React App
+
+
+to start server go to ./server and yarn dev
+then go back to hackernews-react-apollo and yarn start
+before everything you need to install dependencies by yarn 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
